@@ -8,7 +8,7 @@ Enter the url for our iot class:
 https://github.com/cudmore/iot-fall-2023
 ```
 
-On that webpage click the `serve` button.
+On that webpage click the `launch` button.
 
 Wait a bit and you will get an interface like this.
 
