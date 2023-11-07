@@ -67,6 +67,7 @@ nav:
     - Wiring a button and RGB LED : wiring-a-button.md
     - Arduino Nano Pin Diagram : arduino-nano-pin-diagram.md
     - Intro To Python : 
+          - Running notebooks online: binder.md
           - 1 Variables: intro-to-python/1.variables.ipynb
           - 2 Logic with if ... else: intro-to-python/2.logic.ipynb
           - 2.5 Indenting: intro-to-python/2.5.python-indenting.ipynb
