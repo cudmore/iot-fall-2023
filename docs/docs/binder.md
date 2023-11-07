@@ -1,14 +1,12 @@
 ## Running Jupyter notebooks interactively online
 
-Go to [https://mybinder.org/](https://mybinder.org/).
+1) Go to [https://mybinder.org/](https://mybinder.org/).
 
-Enter the url for our iot class:
+2) Enter the url for our iot class:
 
-```
-https://github.com/cudmore/iot-fall-2023
-```
+    https://github.com/cudmore/iot-fall-2023
 
-On that webpage click the `launch` button.
+3) Click the `launch` button.
 
 Wait a bit and you will get an interface like this.
 
@@ -16,10 +14,8 @@ Wait a bit and you will get an interface like this.
 
 Finally, double-click on the left into:
 
-```
-docs
     docs
-        intro-to-python
-```
+        docs
+            intro-to-python
 
 You can then run the Jupyter notebooks interactively.
