@@ -61,8 +61,9 @@ plugins:
 
 nav:
     - Introducing IOT: index.md
-    - Configure the Nano with CircuitPython: configure-nano.md
-    - Configure VS Code : configure-vs-code-app.md
+    - Install and Configure VS Code :
+          - Configure the Nano with CircuitPython: configure-nano.md
+          - Install VS Code: configure-vs-code-app.md
     - Breadboard Basics : breadboard.md
     - Wiring a button and RGB LED : wiring-a-button.md
     - Arduino Nano Pin Diagram : arduino-nano-pin-diagram.md

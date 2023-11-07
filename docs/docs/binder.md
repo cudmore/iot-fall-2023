@@ -1,6 +1,6 @@
 ## Running Jupyter notebooks interactively online
 
-1) Go to [https://mybinder.org/](https://mybinder.org/).
+1) Go to [https://mybinder.org/](https://mybinder.org/)
 
 2) Enter the url for our iot class:
 

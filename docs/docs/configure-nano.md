@@ -2,6 +2,8 @@
 
 This is documentation for configuring and using an [Arduino Nano rp2040 connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect?selectedStore=us) with CircuityPython.
 
+**IMPORTANT.** The Arduino Nano(s) we have been using already have this done. You can skip this step!
+
 We will be programming the Arduino using the [CircuitPython](https://circuitpython.org/) language which is a derivative of [Python](https://www.python.org/)
 
 ## Install CircuitPython on the Nano
