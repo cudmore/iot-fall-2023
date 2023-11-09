@@ -10,7 +10,7 @@
 
 Wait a bit and you will get an interface like this.
 
-<IMG src="../../img/iot-binder.png" width=600>
+<IMG src="../img/iot-binder.png" width=600>
 
 Finally, double-click on the left into:
 
@@ -19,3 +19,10 @@ Finally, double-click on the left into:
             intro-to-python
 
 You can then run the Jupyter notebooks interactively.
+
+https://mybinder.org/v2/gh/cudmore/iot-fall-2023/HEAD?labpath=docs%2Fdocs%2Fintro-to-python%2F
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cudmore/iot-fall-2023/HEAD?labpath=docs%2Fdocs%2Fintro-to-python%2F)
+
+

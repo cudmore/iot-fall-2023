@@ -70,12 +70,13 @@ nav:
     - Intro To Python : 
           - Running notebooks online: binder.md
           - 1 Variables: intro-to-python/1.variables.ipynb
-          - 2 Logic with if ... else: intro-to-python/2.logic.ipynb
-          - 2.5 Indenting: intro-to-python/2.5.python-indenting.ipynb
-          - 3 Looping with for: intro-to-python/3.looping.ipynb
-          - 3.5 Looping Lesson 2: intro-to-python/3.5.looping-with-if.ipynb
-          - 4 Functions: intro-to-python/4.functions.ipynb
-          - 5 Classes: intro-to-python/5.classes.ipynb
+          - 2 Logic with if ... else: intro-to-python/2.logic-with-if.ipynb
+          - 3 Looping with for: intro-to-python/3.looping-with-for.ipynb
+          - 4 Python indenting: intro-to-python/4.python-indenting.ipynb
+          - 5 Looping with if: intro-to-python/5.looping-with-if.ipynb
+          - 6 Functions: intro-to-python/6.functions.ipynb
+          - 7 Classes: intro-to-python/7.classes.ipynb
+          - 8 Reading a sensor: intro-to-python/8.reading-a-sensor.ipynb
     # - Download: download.md
     # - Desktop Application: desktop-application.md
     # - Plugins: plugins.md
